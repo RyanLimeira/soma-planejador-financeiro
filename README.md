@@ -36,33 +36,29 @@
 Nosso projeto visa criar um Planner Financeiro interativo e aliado a gamificação, usando Javascript, HTML e CSS. Os usuários poderão definir metas financeiras, acompanhar despesas e receber recompensas ao atingirem objetivos financeiros, tornando a gestão financeira mais eficaz e envolvente, utilizando da tecnologia para promover mais engajamento e educação financeira de forma lúdica.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Gestão financeira simples;
 
-✔️ Funcionalidade 2
+✔️ Organização;
 
-✔️ Funcionalidade 3
+✔️ Interface fácil de ser utilizada;
 
-✔️ Funcionalidade 4
+✔️ Gamificação.
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+Projeto ainda em desenvolvimento.
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Windows 11
+- I3 - 9100F / Geforce GTX1650 / 16RAM / 512GBSSD
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Projeto pode ser acessado através de qualquer navegador.
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 
-
 ## Linguagens, dependencias e libs utilizadas 📚
-
-
+https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
