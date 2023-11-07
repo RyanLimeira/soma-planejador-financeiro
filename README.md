@@ -67,9 +67,9 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Cauã Vieira
-Eduardo Ciochetti
-Ryan Limeira
+- Cauã Vieira
+- Eduardo Ciochetti
+- Ryan Limeira
 
 ## Licença
 The MIT License (MIT)
