@@ -15,13 +15,7 @@
 
 🔹 Testes realizados
 
-🔹 Banco de Dados
-
 🔹 Linguagens, dependências e libs utilizadas
-
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
 
 🔹 Recursos inseridos 
 
@@ -62,9 +56,6 @@ Utilização de imagens e descrição do qeu foi testado.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Recursos de inseridos 🧰
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
