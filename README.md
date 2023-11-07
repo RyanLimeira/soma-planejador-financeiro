@@ -49,7 +49,7 @@ Projeto ainda em desenvolvimento.
 
 ## Pré-requisitos ⚠️    
 - Windows 11
-- I3 - 9100F / Geforce GTX1650 / 16RAM / 512GBSSD
+- Máquina de Testes = I3 - 9100F / Geforce GTX1650 / 16RAM / 512GBSSD
 
 ## Como rodar a aplicação 
 Projeto pode ser acessado através de qualquer navegador.
